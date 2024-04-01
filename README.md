@@ -127,4 +127,4 @@
 <p style="line-height:107%;margin:0in 0in 0in .5in;text-indent:.5in;"><span style="font-family:&quot;Times New Roman&quot;, serif;font-size:12pt;">Password: lab-password<o:p></o:p></span></p>
 <p style="line-height:107%;margin:0in 0in 0in .5in;text-indent:.5in;"><span style="font-family:&quot;Times New Roman&quot;, serif;font-size:12pt;">Choose Submit<o:p></o:p></span></p>
 <p style="line-height:107%;margin:0in;"><span style="font-family:&quot;Times New Roman&quot;, serif;font-size:12pt;">The complete architecture you deployed is:<o:p></o:p></span></p>
-<img src="lab-5-final-lab-architecture.png" alt="Diagarm">
+<img src="Building-a-Database-Server.png" alt="Diagarm">
